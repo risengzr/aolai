@@ -1,0 +1,10 @@
+test01:
+  username: 13844911496
+  password: 822727
+  tag: 1
+
+test02:
+  username: 13844911496
+  password: 822
+  except_data: 登录密码错误
+  tag: 0
